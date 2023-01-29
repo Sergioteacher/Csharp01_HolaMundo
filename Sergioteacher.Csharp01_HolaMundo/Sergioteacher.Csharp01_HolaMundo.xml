@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sergioteacher.Csharp01_HolaMundo</name>
+    </assembly>
+    <members>
+        <member name="T:Sergioteacher.Csharp01_HolaMundo.HolaMundo">
+            <summary>
+            <autor>Sergioteacher</autor>
+            Comentarios codificados en XML
+            </summary>
+        </member>
+        <member name="M:Sergioteacher.Csharp01_HolaMundo.HolaMundo.Main(System.String[])">
+            <summary>
+            El método principal
+            </summary>
+            <param name="args"> Y los argumentos que gestiona, aquí los parámetros del programa.</param>
+        </member>
+    </members>
+</doc>
