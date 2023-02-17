@@ -27,7 +27,10 @@ namespace Sergioteacher.Csharp01_HolaMundo
             /* Incluyendo el espacio de nombres */
             //Console.WriteLine("¡Hola a todo el mundo!");
             /* usando un alias */
+            // Limpiando un poco...
+            System.Console.Clear();
             output.WriteLine("¡Hola a todo el mundo!");
+            output.WriteLine("y el número de argumentos pasados son: " + args.Length.ToString());
         }
     }
 }
